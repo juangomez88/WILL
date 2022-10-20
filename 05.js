@@ -19,7 +19,6 @@ function pluck(array, propiedad) {
   })
   return nuevoArray;
 }
-
 // No modifiques nada debajo de esta linea //
 
 module.exports = pluck

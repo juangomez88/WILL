@@ -31,7 +31,7 @@ function filtrar(funcion) {
       if(callback(elemento)) newArr.push(elemento)
     }
     return newArr
-
+  }
 };
 
 filtrar();
